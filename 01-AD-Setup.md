@@ -24,13 +24,13 @@ I set up a Windows Server 2019 VM and configured it as a Domain Controller for a
 ## Screenshots
 
 ### AD DS Role Installed
-![AD DS Role](01-addsrole.png)
+![AD DS Role](screenshots/01-addsrole.png)
 
 ### ADUC - OU Structure with Test Users
-![ADUC OUs](02-aduc-ous.png)
+![ADUC OUs](screenshots/02-aduc-ous.png)
 
 ### Domain Login Confirmation
-![Domain Login](03-login-domain.png)
+![Domain Login](screenshots/03-login-domain.png)
 
 ## Skills Demonstrated
 
