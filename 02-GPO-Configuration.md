@@ -29,13 +29,13 @@ I created and applied two Group Policy Objects (GPOs) at the domain level in `as
 ## Screenshots
 
 ### GPOs Linked to Domain
-![GPOs Linked](01-gpos-linked.png)
+![GPOs Linked](screenshots/01-gpos-linked.png)
 
 ### Password Policy Settings
-![Password Policy](02-password-policy.png)
+![Password Policy](screenshots/02-password-policy.png)
 
 ### gpresult /r Confirmation
-![gpresult Output](03-gpresult.png)
+![gpresult Output](screenshots/03-gpresult.png)
 
 ## Skills Demonstrated
 
