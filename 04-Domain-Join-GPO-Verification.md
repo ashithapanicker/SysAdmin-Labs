@@ -2,7 +2,7 @@
 
 ## What I Built
 
-I joined a Windows 10 client (`PC1`) to the `ashitha.local` domain, logged in with a domain user account, and verified end-to-end that Group Policy Objects created earlier (Security Baseline Policy and Login Banner) apply correctly to a domain-joined client. This proves the full chain: server → domain → client joined → GPO enforced.
+I joined a Windows 11 client (`PC1`) to the `ashitha.local` domain, logged in with a domain user account, and verified end-to-end that Group Policy Objects created earlier (Security Baseline Policy and Login Banner) apply correctly to a domain-joined client. This proves the full chain: server → domain → client joined → GPO enforced.
 
 ## Steps Taken
 
