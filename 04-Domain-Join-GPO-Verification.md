@@ -6,7 +6,7 @@ I joined a Windows 11 client (`PC1`) to the `ashitha.local` domain, logged in wi
 
 ## Steps Taken
 
-1. Joined the Windows 10 VM to the domain via **System Properties → Change → Domain**, entering `ashitha.local` and domain admin credentials.
+1. Joined the Windows 11 VM to the domain via **System Properties → Change → Domain**, entering `ashitha.local` and domain admin credentials.
 2. Confirmed the join succeeded — full computer name shows as `PC1.ashitha.local`, domain shows as `ashitha.local`.
 3. Logged in with a domain user account (`jdoe`, part of the IT OU).
 4. Ran `gpresult /r` to confirm GPO application. Under **Computer Settings → Applied Group Policy Objects**, both **Security Baseline Policy** and **Login Banner** appeared, alongside the built-in **Default Domain Policy**.
