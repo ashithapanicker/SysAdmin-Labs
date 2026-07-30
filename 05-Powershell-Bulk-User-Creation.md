@@ -4,11 +4,6 @@
 
 I wrote a PowerShell script to automate bulk creation of Active Directory user accounts from a CSV file, rather than creating each user manually through ADUC. The script reads a list of users (name, username, target department) and creates each one in the correct Organizational Unit, using `New-ADUser`.
 
-## Files in This Folder
-
-- `BulkCreateUsers.ps1` — the actual PowerShell script
-- Screenshot showing the script and execution output together
-
 ## Steps Taken
 
 1. Created a CSV file (`users.csv`) listing 5 sample users, each with First Name, Last Name, Username, and target OU (Sales, HR, IT, Management).
@@ -36,8 +31,7 @@ This lab surfaced two real issues that took actual troubleshooting to resolve, w
 ## Screenshot
 
 ### Script and Execution Output
-![Script and Output](screenshots\01-script-output.png)
-
+![Script and Output](screenshots/01-script-output.png)
 ## Skills Demonstrated
 
 - PowerShell scripting for Active Directory administration
