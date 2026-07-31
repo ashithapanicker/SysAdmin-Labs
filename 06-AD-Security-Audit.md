@@ -35,13 +35,13 @@ All identified issues were fixed directly in this lab, not just documented:
 ![Password never expires](screenshots/02-password-never-expires.png)
 
 ### Disabled Users in Active OUs
-![Disabled users](screenshots/03-disabled-users.png)
+![Disabled users](screenshots/03-disabled-usres.png)
 
 ### Domain Admins Group Membership
 ![Domain admins](screenshots/04-domain-admins.png)
 
 ### Disabled Account Moved to Dedicated OU
-![Mikebrown moved](screenshots/05-mikebrown-moved.png)
+![Mikebrown moved](screenshots/05-mike-brown-moved.png)
 
 ## Skills Demonstrated
 
